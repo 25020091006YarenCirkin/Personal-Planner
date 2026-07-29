@@ -1,34 +1,59 @@
-# Ajanda
-# Digital Journal – WinForms UI
+#  Personal Planner
 
-Digital Journal, Windows Forms kullanılarak geliştirilen bir masaüstü ajanda arayüzü tasarımıdır. Bu proje, kullanıcıların günlük planlarını, görevlerini ve notlarını daha düzenli bir şekilde takip edebileceği bir kullanıcı arayüzü oluşturmayı amaçlamaktadır.
+A personal planner desktop application developed with **VB.NET Windows Forms**. The project provides an organized interface for managing daily tasks, notes, reminders, and schedules.
 
-## Features
+---
 
-- 📅 Takvim ve tarih seçimi
-- ✅ Günlük görev ve aktivite listesi
-- 📝 Not alma alanı
-- 🎨 Doodle Pad (hızlı çizim alanı)
-- 📊 Görev tamamlanma oranını gösteren ilerleme göstergesi
-- 🙂 Günlük ruh hali seçimi
-- ⚙️ Arayüz ayarları ve tema seçenekleri
+##  Features
 
-## Technologies
+- 📅 Calendar view
+- ✅ Task checklist
+- 📝 Notes section
+- ⏰ Reminder section
+- 📆 Upcoming events panel
+- 😊 Mood tracker
+- 🎨 Doodle pad
+- 🌙 Dark mode option
+- ⚙️ Settings panel
+- 📅 Date and time picker
 
-- Windows Forms
+---
+
+##  Technologies
+
+- VB.NET
 - .NET
-- Visual Studio
+- Windows Forms
 
-## Purpose of the Project
+---
 
-Bu proje, Windows Forms ortamında kullanıcı arayüzü tasarımı pratiği yapmak ve farklı UI bileşenlerinin bir masaüstü uygulamasında nasıl kullanılabileceğini göstermek amacıyla geliştirilmiştir.
+##  How to Run
 
-## Screenshot
+1. Clone the repository.
+2. Open the solution in Visual Studio.
+3. Build and run the project.
 
-Uygulama arayüzüne ait ekran görüntüsü:
+---
 
-![Digital Journal UI](screenshot.png)
+##  Screenshot
 
-## Author
+<img width="800" height="430" alt="personalplanner" src="https://github.com/user-attachments/assets/80e5eca4-0404-4b06-bc75-2cef893734ed" />
 
-Yaren
+---
+
+## Future Improvements
+
+- Save tasks to a database
+- Notifications for reminders
+- Recurring tasks
+- Export planner data
+- Cloud synchronization
+- User authentication
+
+---
+
+##  Developer
+
+**Yaren Çirkin**
+
+Software Engineering Student
